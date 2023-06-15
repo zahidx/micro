@@ -1,0 +1,116 @@
+nav {
+  height: 8vh;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.NavLink{
+  color: white;
+  text-decoration: none;
+  margin: 0rem 1rem;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.home-s{
+  margin-left: 620px!important;
+}
+
+.NavLink:hover{
+  color: #00ff00;
+}
+
+nav .active{
+  color: #fd1900;
+}
+
+/* member section style started */
+.main-div{
+  background-color: #00ff00;
+}
+
+/* Faculty page design */
+.faculty h1{
+  text-align: center;
+  font-size: 50px;
+  font-weight: 600;
+  color: #000000;
+  text-shadow: #634f4c 0px 0px 2px;
+  background: #d7d0d0;
+  padding: 40px;
+  margin-top: 35px;
+
+}
+
+.faculty img{
+  border-radius: 50%;
+  margin-top: 50px;
+  margin-left: 50px;
+  background-color: #000000;
+  
+}
+
+.div1{
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1cd491;
+}
+
+.div1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  background-color: #baf3ea;
+  color: #000000;
+}
+
+.div0{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  background-color: #a5f3ed;
+  color: #000000;
+}
+
+.div1 h2{
+  font-size: 26px;
+  font-weight: 600;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.div1 h6{
+  font-size: 19px;
+  font-weight: 600;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+.div1 p{
+  font-size: 17px;
+  font-weight: 600;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+.nav-scroll{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+  
+
+
